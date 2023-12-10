@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(useMaterial3: true),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Welcome to Flutter - Chamara'),
+          title: const Text('Welcome to Flutter - Chamara Dilshan'),
         ),
         body: Container(
           width: double.infinity,
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: const [
               Text(
-                'Flutter - The Complete Guide',
+                'Flutter - The Complete Guide by Chamara',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 24,
